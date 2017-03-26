@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="les-9-rest" />
+        <module name="rest-service-rick" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="les-9-rest" target="1.7" />
+      <module name="rest-service-rick" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

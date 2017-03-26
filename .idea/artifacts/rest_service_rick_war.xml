@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-service-rick:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="rest-service-rick.war">
+      <element id="artifact" artifact-name="rest-service-rick:war exploded" />
+    </root>
+  </artifact>
+</component>
